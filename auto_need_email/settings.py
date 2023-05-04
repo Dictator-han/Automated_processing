@@ -1,10 +1,10 @@
 # 数据库连接
 DATABASE_CON_INFOS = {
     'default':{
-        'host': '172.16.206.139',
-        'port': 8836,
+        'host': '172.16.206.xxx',
+        'port': xxxx,
         'user': 'u5_data',
-        'password': '542U5^f5b52',
+        'password': 'xxxxxx',
         'database': 'temp_u5'
     }
 }
